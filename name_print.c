@@ -5,7 +5,7 @@ int main() {
     scanf("%s", firstName);
     printf("enter your last name: ");
     scanf("%s", secondName);
-    printf("your name is: %s %s\n", firstName, secondName);
+    printf("your full name is: %s %s\n", firstName, secondName);
 
     return 0;
 }
